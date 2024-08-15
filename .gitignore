@@ -1,0 +1,6 @@
+*pycache
+*.fbx
+.env
+.vscode
+.idea
+FirebirdSS-2.5.9.27139-0.amd64.tar.gz
